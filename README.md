@@ -3,10 +3,9 @@
 
 ## 🧑 Sobre mim:
 <p>
-🎓 Programador profissional em plataformas Java e Pawn;<br>
+🎓 Programador profissional em plataformas Java e Python;<br>
 ☕ Programador experiente na biblioteca `Discord.js` em JavaScript;<br>
 🧩 Programador aprendiz em HTML && CSS (Fullstack);<br>
-🧱 ;<br>
 </p>
 
 ### 💻 &nbsp;Linguagens de programação e desenvolvimento:
@@ -25,13 +24,3 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hobbie-dev&hide_border=true&theme=dark&show_icons=true" />
 </p>
 
-## 📕 Repositórios
-
-<p align="center">
-	<a href="https://github.com/hobbie-dev/minecraft-bot-javascript/">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hobbie-dev&repo=minecraft-bot-javascript&hide_border=true&theme=dark&show_icons=true" />
-	</a>
-	<a href="https://github.com/hobbie-dev/ban-js">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hobbie-dev&repo=ban-js&hide_border=true&theme=dark&show_icons=true" />
-	</a>
-</p>
